@@ -1,3 +1,3 @@
-module github.com/AntonShadrinNN/validate.git
+module github.com/AntonShadrinNN/validate
 
 go 1.20
